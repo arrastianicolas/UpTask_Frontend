@@ -11,6 +11,6 @@
 -react-router-dom para la navegación 
 
 
-## 🛠️Backend:![Backend](https://github.com/arrastianicolas/UpTask_Backend)
+## 🛠️Backend:(https://github.com/arrastianicolas/UpTask_Backend)
 
 ![proyectospng](https://github.com/user-attachments/assets/a35c7cd3-07ba-49fa-ac36-eb34f4be4a76)
